@@ -11,4 +11,4 @@ I'm mainly interested in low level stuff and languages (Rust, C...), and DevOps 
 **⚡ Fun fact :** I find ☕ highly overrated, 🍵 is a lot better
 
 
-![Github statistics](https://github-readme-stats.vercel.app/api?username=trinity-1686a&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=My%20Github%20Stats)
+![Github statistics](https://github-readme-stats.vercel.app/api?username=trinity-1686a&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=My%20Github%20Stats&hide=stars)
